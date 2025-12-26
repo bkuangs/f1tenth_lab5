@@ -1,6 +1,5 @@
 # Lab 5: Scan Matching
 
-Please see the attached [lab5.pdf](lab5.pdf) for instructions.
+**Assignment link:** https://github.com/f1tenth/f1tenth_lab5_template  
 
-For submission, see [SUBMISSION.md](SUBMISSION.md).
-
+This was an optional lab and I kind of got lost so I'm moving forward for now. I vibe coded `tranform.py`
